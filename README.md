@@ -1,5 +1,10 @@
 # map
+
 C++ map
-the program allows users to input the length and width of the map.
-the text can be copied and pasted onto a compiler to run.
-.cpp version will be posted soon.
+A simple IO code that accepts a length and width then draws out a rectangle with those parameters.
+
+
+*Requirements*
+
+- g++ compiler
+- GNU

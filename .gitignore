@@ -1,0 +1,21 @@
+# IDEs and editors
+/.gradle
+/.idea
+.idea
+.project
+*.launch
+.settings/
+*.sublime-workspace
+.vscode/*
+!.vscode/launch.json
+.dep.inc
+
+#build
+build
+dist
+out
+nbproject
+
+# System Files
+.DS_Store
+Thumbs.db
